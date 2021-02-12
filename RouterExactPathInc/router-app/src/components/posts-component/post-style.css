@@ -1,0 +1,26 @@
+.post-box{
+    border:1px solid lightslategray;
+}
+.post-box:hover{
+    background-color: lightslategray;
+}
+.post-title{
+    text-align: center;
+}
+.form-container{
+    width: 50vw!important;
+    margin: 100px auto;
+}
+input{
+    display: inline;
+}
+.main-create-container{
+background-color: #61dafb;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+}
+form{
+    display: flex;
+}
