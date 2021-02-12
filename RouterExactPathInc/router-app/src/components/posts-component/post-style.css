@@ -1,26 +1,39 @@
-.post-box{
-    border:1px solid lightslategray;
+.post-box {
+    border: 1px solid lightslategray;
 }
-.post-box:hover{
+
+.post-box:hover {
     background-color: lightslategray;
 }
-.post-title{
+
+.post-title {
     text-align: center;
 }
-.form-container{
-    width: 50vw!important;
-    margin: 100px auto;
+
+.form-container {
+    width: 50vw !important;
+    margin: 10px auto;
 }
-input{
+
+input {
     display: inline;
 }
-.main-create-container{
-background-color: #61dafb;
-    height: 100vh;
+
+.main-create-container {
+    background-color: #61dafb;
+    height: 20vh;
 }
-h1{
+
+h1 {
     text-align: center;
 }
-form{
+
+form {
     display: flex;
+}
+
+.btn-w-h {
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
 }
